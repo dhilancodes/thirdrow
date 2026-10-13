@@ -4,14 +4,19 @@ output: html_document
 ---
 
 Division of Labor
-- Update the TEAMWORK.md file, do step 5
-- Three people take care of exercise 6, Dhilan, Gabe, and Sam(or whoever is up for it)
+- Bryce: update the TEAMWORK.md file and complete step 5
+- Sam and Dhilan: Name the graphs
+- Gabe: Resolve it
+- Max: Clean up the repository
 - As a team, lets tidy up our repo
 - Then we send the final milestone
 
 Timing
-- Lets work together to get the final task before 10/13
+- Lets work together to get the final task before 10/13!
 
 
 Communication:
 - We will use text messages and possibly an online meeting to finalize results.
+
+Resources for Programming in R:
+- [Click here to visit ModernDive](https://moderndive.com/index.html)
