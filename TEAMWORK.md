@@ -4,14 +4,13 @@ output: html_document
 ---
 
 Division of Labor
-- Max Woest - Create the README
-- Bryce Gilman - Update the TEAMWORK.md file, do step 5
-- Three people take care of exercise 6, Dhilan, Gabe, and Sam
+- Update the TEAMWORK.md file, do step 5
+- Three people take care of exercise 6, Dhilan, Gabe, and Sam(or whoever is up for it)
 - As a team, lets tidy up our repo
 - Then we send the final milestone
 
 Timing
-- Lets work together to get the final task done by 10/9
+- Lets work together to get the final task before 10/13
 
 
 Communication:
