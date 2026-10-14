@@ -25,8 +25,8 @@ Task Checklist
 - [x] Add the image folder and display an image in README.md
 - [x] Complete Exercise 5
 - [x] Complete Exercise 6 and resolve the merge conflict
-- [ ] Clean up the repository for Exercise 7
-- [ ] Submit the assignment
+- [x] Clean up the repository for Exercise 7
+- [x] Prepare and submit the assignment
 
 
 Resources for Programming in R:
